@@ -2,6 +2,8 @@ SocksPort 0
 RunAsDaemon 1
 ExitRelay 1
 
+Log notice file /var/log/tor/notices.log
+
 ORPort 443
 
 Nickname toreffiorg
